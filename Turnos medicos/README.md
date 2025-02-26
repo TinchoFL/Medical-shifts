@@ -1,6 +1,5 @@
-### Tp Intro MFL
 
-## Instalar
+## Install
 
 ```bash
 python3 -m venv venv
@@ -10,7 +9,7 @@ pip install flask-SQLAlchemy
 pip install flask-cors
 ```
 
-## Correr
+## Run
 
 ```bash
 sudo systemctl start postgresql
